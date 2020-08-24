@@ -1,0 +1,27 @@
+fieldset{
+    width: 800px;
+    margin: 15px auto 0px auto;
+    text-align: center;
+}
+fieldset legend{
+    width: 200px;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+fieldset input[type="text"]{
+    border: none;
+    outline: none;
+    width: 80px;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+fieldset input[type="button"]{
+    padding: 10px;
+}
+fieldset.inne{
+    width: 350px;
+}
